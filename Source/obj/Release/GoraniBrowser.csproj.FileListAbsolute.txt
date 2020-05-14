@@ -1,0 +1,56 @@
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\bin\Release\GoraniBrowser.exe.config
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.exe
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.pdb
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\bin\Release\GoraniBrowser.exe
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\bin\Release\GoraniBrowser.pdb
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveOffline.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveTabBundle.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.frmGoraniBrowser.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.frmAddFavorite.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.frmHomepage.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\GoraniBrowser\Gorani-Browser\obj\Release\GoraniBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\bin\Release\GoraniBrowser.exe.config
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.exe
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.pdb
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\bin\Release\GoraniBrowser.exe
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\bin\Release\GoraniBrowser.pdb
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveOffline.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveTabBundle.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmGoraniBrowser.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmAddFavorite.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmHomepage.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.Properties.Resources.resources
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.csproj.GenerateResource.Cache
+C:\Users\Sun\Documents\카카오톡 받은 파일\Gorani-Browser\obj\Release\GoraniBrowser.frmScreencapture.resources
+C:\Users\User\Desktop\Gorani-Browser (2)\obj\Release\GoraniBrowser.exe
+C:\Users\User\Desktop\Gorani-Browser\bin\Release\GoraniBrowser.exe.config
+C:\Users\User\Desktop\Gorani-Browser\bin\Release\GoraniBrowser.exe
+C:\Users\User\Desktop\Gorani-Browser\bin\Release\GoraniBrowser.pdb
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveOffline.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveTabBundle.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmGoraniBrowser.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmAddFavorite.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmHomepage.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.Properties.Resources.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.frmMemo.resources
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.exe
+C:\Users\User\Desktop\Gorani-Browser\obj\Release\GoraniBrowser.pdb
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\bin\Release\GoraniBrowser.exe.config
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.exe
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.pdb
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\bin\Release\GoraniBrowser.exe
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\bin\Release\GoraniBrowser.pdb
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveOffline.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmSaveTabBundle.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmGoraniBrowser.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmAddFavorite.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmHomepage.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.Properties.Resources.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.frmMemo.resources
+C:\Users\User\Documents\광운대 3학년 1학기\응용소프트웨어실습\프로젝트\최종발표\Gorani-Browser\obj\Release\GoraniBrowser.csproj.GenerateResource.Cache
